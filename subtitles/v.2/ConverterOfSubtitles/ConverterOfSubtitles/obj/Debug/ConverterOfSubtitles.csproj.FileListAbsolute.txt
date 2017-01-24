@@ -1,0 +1,9 @@
+E:\something\projects\ConverterOfSubtitles\ConverterOfSubtitles\bin\Debug\ConverterOfSubtitles.exe.config
+E:\something\projects\ConverterOfSubtitles\ConverterOfSubtitles\bin\Debug\ConverterOfSubtitles.exe
+E:\something\projects\ConverterOfSubtitles\ConverterOfSubtitles\bin\Debug\ConverterOfSubtitles.pdb
+E:\something\projects\ConverterOfSubtitles\ConverterOfSubtitles\obj\Debug\ConverterOfSubtitles.csprojResolveAssemblyReference.cache
+E:\something\projects\ConverterOfSubtitles\ConverterOfSubtitles\obj\Debug\ConverterOfSubtitles.exe
+E:\something\projects\ConverterOfSubtitles\ConverterOfSubtitles\obj\Debug\ConverterOfSubtitles.pdb
+D:\programming\ConverterSubtitles\subtitles\v.2\ConverterOfSubtitles\ConverterOfSubtitles\bin\Debug\ConverterOfSubtitles.exe.config
+D:\programming\ConverterSubtitles\subtitles\v.2\ConverterOfSubtitles\ConverterOfSubtitles\obj\Debug\ConverterOfSubtitles.exe
+D:\programming\ConverterSubtitles\subtitles\v.2\ConverterOfSubtitles\ConverterOfSubtitles\obj\Debug\ConverterOfSubtitles.pdb
