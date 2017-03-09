@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
+//test commit by sourceTree
 
 namespace ConverterOfSubtitles
 {
@@ -42,10 +43,11 @@ namespace ConverterOfSubtitles
             for (int i = 0; i < files.Length; i++)
             {               
                 Console.WriteLine(files[i]);
-            }
+            }            
             return files; 
         }
 
        
     }
 }
+//second comment
